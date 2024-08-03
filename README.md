@@ -1,4 +1,5 @@
-Brain Tumor Classification Project: Detailed Description
+
+#### Brain Tumor Classification Project: Detailed Description
 
 #### Overview
 This project focused on developing a machine learning model to classify brain tumors using MRI images, aiming to assist medical professionals in diagnosing various types of brain tumors with high accuracy.
