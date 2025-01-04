@@ -1,7 +1,12 @@
-![image](https://github.com/user-attachments/assets/5ca9b8ca-04ab-43e9-a351-18a284af98d2)## Table of Content
+#### Brain Tumor Classification Project: Detailed Description
+
+#### Overview
+This project focused on developing a machine learning model to classify brain tumors using MRI images, aiming to assist medical professionals in diagnosing various types of brain tumors with high accuracy.
+
+## Table of Contents
 - [Overview](#Overview)
 - [Dataset](#Dataset)
-- [Data Preprocessing](#Data Preprocessing)
+- [Data Preprocessing](#Datapreprocessing)
 - [Model Arichitecture](#Model Architecture)
 - [Frameworks and Libraries](#Frameworks and Libraries)
 - [Training and Validation](#Training and Validation)
@@ -9,13 +14,8 @@
 - [Results](#Results)
 - [Challenges and Future Work](#Challenges and Future Work)
 - [Conclusion](#Conclusion)
-  
-#### Brain Tumor Classification Project: Detailed Description
-
-#### Overview
-This project focused on developing a machine learning model to classify brain tumors using MRI images, aiming to assist medical professionals in diagnosing various types of brain tumors with high accuracy.
 #### User Interface
-Home Screen
+#### Home Screen
 ![image](https://github.com/user-attachments/assets/b22acbb3-0e92-438e-a76c-197775c5afd2)
 Upload Image Screen
 ![image](https://github.com/user-attachments/assets/5360edaa-df28-4e67-b6d0-e32f6e863373)
